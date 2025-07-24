@@ -13,6 +13,7 @@ public class Student {
 
     // 性别
     private Integer sex;
-    
+
+    private static int count = 0;
 
 }
