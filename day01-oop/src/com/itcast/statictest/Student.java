@@ -11,6 +11,8 @@ public class Student {
 
     private Integer age;
 
+    // 性别
+    private Integer sex;
     
 
 }
