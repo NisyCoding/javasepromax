@@ -1,0 +1,14 @@
+package com.itcast.statictest;
+
+/**
+ * @author Nisy
+ * @date 2025-07-24 20:57
+ */
+public class Student {
+
+
+    private String name;
+
+    
+
+}
