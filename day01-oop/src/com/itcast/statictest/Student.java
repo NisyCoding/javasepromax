@@ -10,11 +10,4 @@ public class Student {
     private String name;
 
     private Integer age;
-
-    // 性别
-    private Integer sex;
-
-    private static int count = 0;
-
-
 }
