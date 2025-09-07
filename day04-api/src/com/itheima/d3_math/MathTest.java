@@ -15,12 +15,12 @@ public class MathTest {
 
 
         // Math.ceil: 向上取整
-        System.out.println(Math.ceil(4.00001)); // 5
-        System.out.println(Math.ceil(4.0)); // 4
+        System.out.println(Math.ceil(4.00001)); // 5.0
+        System.out.println(Math.ceil(4.0)); // 4.0
 
         // Math.floor: 向下取整
-        System.out.println(Math.floor(4.999)); // 4
-        System.out.println(Math.floor(4.0)); // 4
+        System.out.println(Math.floor(4.999)); // 4.0
+        System.out.println(Math.floor(4.0)); // 4.0
 
         // Math.round: 四舍五入
         System.out.println(Math.round(3.499)); // 3
